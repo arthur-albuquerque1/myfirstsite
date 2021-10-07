@@ -6,6 +6,6 @@ das tecnologias. Ele basicamente diz ao usuário qual dia da semana é, bem como
 
 As seguintes tecnologias foram utilizadas no projeto:
 
--HTML
--CSS
--JavaScript
+- HTML
+- CSS
+- JavaScript
